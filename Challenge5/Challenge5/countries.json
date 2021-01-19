@@ -1,0 +1,18 @@
+{
+"results": [
+{
+    "name":"Romania",
+    "capital":"Bucharest",
+    "size":"238.397 square km",
+    "population":91.41,
+    "currency":"RON"
+},
+{
+    "name":"Moldova",
+    "capital":"Chisinau",
+    "size":"33.846 square km",
+    "population":3.54,
+    "currency":"MDL"
+}
+]
+}

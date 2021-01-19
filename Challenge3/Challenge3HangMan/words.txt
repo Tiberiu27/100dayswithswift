@@ -1,0 +1,6 @@
+cow
+road
+blanket
+balcony
+beam
+charger
